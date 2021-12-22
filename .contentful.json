@@ -1,7 +1,13 @@
 {
+  // "CTF_PERSON_ID": "15jwOBqpxqSAOy2eOO4S0m",
+  // "CTF_BLOG_POST_TYPE_ID": "blogPost",
+  // "CTF_SPACE_ID": "ywgxg3m24sqg",
+  // "CTF_CDA_ACCESS_TOKEN": "4panSuwuw3eQgeJN3pRUo6yaCl0Usq61sEvDjPyASDg",
+  // "CTF_CMA_ACCESS_TOKEN": "CFPAT-DVGXMELXcIiz8cbt4wly2-969ZHLy2pF99IPe_DpyQA"
+
   "CTF_PERSON_ID": "15jwOBqpxqSAOy2eOO4S0m",
   "CTF_BLOG_POST_TYPE_ID": "blogPost",
-  "CTF_SPACE_ID": "ywgxg3m24sqg",
-  "CTF_CDA_ACCESS_TOKEN": "4panSuwuw3eQgeJN3pRUo6yaCl0Usq61sEvDjPyASDg",
-  "CTF_CMA_ACCESS_TOKEN": "CFPAT-DVGXMELXcIiz8cbt4wly2-969ZHLy2pF99IPe_DpyQA"
+  "CTF_SPACE_ID": "9pfnnwaxz8kq",
+  "CTF_CDA_ACCESS_TOKEN": "qurHVTYNA6zu1alUXeLroGYiTsYiL3ypGsabmq-hTj4",
+  "CTF_CMA_ACCESS_TOKEN": "CFPAT-6pbedPJWIS3vftQciC96qNUw61FCJA2RasAa8ga9sK8"
 }
